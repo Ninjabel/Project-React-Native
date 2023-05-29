@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Reminders",
+    "slug": "reminders",
+    "icon": "./assets/icon.png",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#FFFFFF",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    }
+  }
+}
